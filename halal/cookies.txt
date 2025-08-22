@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+chaxun.sspyhalal.com	TRUE	/	FALSE	1999999999	sdwaf-test-item	f97ecd510951080203090809085000010450085754550a0151530152040107500505521d0a57160504170a0d0f4b570454
+
